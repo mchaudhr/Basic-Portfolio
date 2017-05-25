@@ -1,0 +1,106 @@
+html {
+	background-image:url("https://www.motionbackgroundsforfree.com/wp-content/uploads/2016/04/700-min.jpg");
+}
+
+
+#fixed {
+	background: #FFFFFF;
+	width: 100%;
+	margin: 0;
+	top: 0;
+	right: 0;
+	text-align: center;
+	position: fixed;
+	border-bottom: solid;
+	border-width: 2px;
+	border-bottom-color: darkgray;
+}
+
+#relative {
+	background: #20B2AA;
+	text-align: center;
+	width: 350px;
+	left: 30px;
+	height: 80px;
+	float: left;
+	display: inline;
+	position: relative;
+	color: white;
+	top: 0;
+	bottom: 0;
+	left: 100px;
+}
+
+#aboutme {
+	background-color: white;
+	padding-top: 0px;
+	width: 50%;
+	margin-top: 150px;
+	margin-left: 7.5%;
+	height: 400px;
+	float: left;
+}
+
+#aboutme_sub1 {
+	background: white;
+    text-align: left;
+    width: 95%;
+    padding: 0px;
+    height: 50px;
+    float: left;
+    display: inline;
+    position: static;
+    color: #20B2AA;
+    margin-right: 15px;
+    margin-left: 15px; 
+    margin-top: 0px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-bottom-color: lightgray;
+   
+    }
+
+#contactme {
+	background-color: white;
+    padding-top: 0px;
+    height: 160px;
+    width: 220px;
+    margin-top: 150px;
+    margin-left: 40px;
+    margin-right: 20%;
+    float: right;
+}
+
+#contactme_sub1 {
+	background: white;
+    text-align: left;
+    width: 90%;
+    padding: 0px;
+    height: 50px;
+    float: left;
+    display: inline;
+    position: static;
+    color: #20B2AA;
+    margin-right: 15px;
+    margin-left: 15px; 
+    margin-top: 0px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-bottom-color: lightgray;
+}
+
+#footer {
+	background: #808080;
+	padding: 30px;
+	position: absolute;
+	margin: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	color: lightgray;
+	float: left;
+	width: 100%;
+	border-top: solid;
+	border-width: 5px;
+	border-top-color: #20B2AA;
+}
