@@ -1,0 +1,46 @@
+
+
+
+
+.input1[type=text], {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input2[type=text], {
+    width: 100%;
+    padding: 30px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.input2[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    height: 60%;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.input3[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+
+.divform {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
